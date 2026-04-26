@@ -1,13 +1,11 @@
-# Emoji Sudoku
+# Fill-in-the-blank story
 
-A simple 9x9 emoji Sudoku game for GitHub Pages.
+A GitHub Pages-ready fill-in-the-blank story game.
 
 ## Files
 
-- `index.html` — page structure
-- `style.css` — light blue design, typography, grid dividers, colored emoji backgrounds
-- `script.js` — puzzle generation, emoji picker, and checking logic
+- index.html
+- styles.css
+- script.js
 
-## Publish on GitHub Pages
-
-Upload these files to a GitHub repository, then open Settings → Pages and publish from your main branch.
+Upload these files to a GitHub repository and enable GitHub Pages.
